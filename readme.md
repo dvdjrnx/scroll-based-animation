@@ -10,7 +10,7 @@ The work was undertaken as one of many steps in acquiring [my Three.js certifica
 
 ## Live demo
 
-A running demo of the project can be viewed at https://dvdjrnx.github.io/raging-sea
+A running demo of the project can be viewed at https://dvdjrnx.github.io/scroll-based-animation
 
 ## Local development
 
