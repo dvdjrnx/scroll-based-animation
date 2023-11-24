@@ -1,6 +1,6 @@
 # Scroll-based Animation
 
-![The words "My Portfolio" sit against a starscape with a green donut shape floating off to the side.](./static/scroll-based-animation.png)
+![The words "My Portfolio" sit against a starscape with a green donut shape floating off to the side.](./static/scroll-based-animation.jpg)
 
 This project explores scroll-based animation with 3D elements. It was created with Three.js.
 
